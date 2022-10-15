@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab1_Ex2</string>
+    <string name="ai_activity">AIActivity</string>
+    <string name="vr_activity">VRActivity</string>
+    <string name="top_fragment_onCreateView">TopFragment onCreateView()</string>
+    <string name="bottom_fragment_onCreateView">BottomFragment onCreateView()</string>
+    <string name="main_activity">Main Activity:</string>
+    <string name="onCreate_executed">onCreate executed</string>
+    <string name="onStart_executed">onStart executed</string>
+    <string name="onStop_executed">onStop executed</string>
+    <string name="onDestroy_executed">onDestroy executed</string>
+    <string name="life_cycle_methods_demonstration">Life Cycle Methods Demonstration</string>
+</resources>
